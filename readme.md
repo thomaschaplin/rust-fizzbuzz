@@ -20,7 +20,6 @@ Make sure you have [rust](https://www.rust-lang.org/) installed on your machine 
 #### Example output of run:
 
 ```
-FizzBuzz
 1
 2
 Fizz
